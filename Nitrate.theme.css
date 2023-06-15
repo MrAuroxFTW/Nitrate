@@ -14,10 +14,10 @@
 
 /* -------- Select a theme by commenting out all other lines. -------- */
 :root {
-/* ---- Light Themes ---- */
-    /* Candyfloss */
+ ---- Light Themes ---- 
+    Candyfloss 
     --custom-theme-background: linear-gradient(180.14deg, var(--bg-gradient-cotton-candy-1) 8.5%, var(--bg-gradient-cotton-candy-2) 94.28%);
-    /* Citrus Sherbert */
+    /* Citrus Sherbert *\/
     --custom-theme-background: linear-gradient(180deg, var(--bg-gradient-citrus-sherbert-1) 31.1%, var(--bg-gradient-citrus-sherbert-2) 67.09%);
     /* Desert Khaki */
     --custom-theme-background: linear-gradient(38.99deg, var(--bg-gradient-desert-khaki-1) 12.92%, var(--bg-gradient-desert-khaki-2) 32.92%, var(--bg-gradient-desert-khaki-3) 52.11%);
