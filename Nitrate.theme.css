@@ -51,9 +51,9 @@
     --custom-theme-background: linear-gradient(179.14deg, var(--bg-gradient-under-the-sea-1) 1.91%, var(--bg-gradient-under-the-sea-2) 48.99%, var(--bg-gradient-under-the-sea-3) 96.35%);
 
 /* ---- Experimental: make your own theme ---- */
-    --nitro-custom-angle: 180deg;
-    --nitro-custom-color-1: red;
-    --nitro-custom-color-2: green;
-    --nitro-custom-color-3: blue;
-    --custom-theme-background: linear-gradient(var(--nitro-custom-angle), var(--nitro-custom-color-1), var(--nitro-custom-color-2), var(--nitro-custom-color-3));
+   /* --nitro-custom-angle: 180deg; */
+   /* --nitro-custom-color-1: red; */
+   /* --nitro-custom-color-2: green; */
+   /* --nitro-custom-color-3: blue; */
+   /* --custom-theme-background: linear-gradient(var(--nitro-custom-angle), var(--nitro-custom-color-1), var(--nitro-custom-color-2), var(--nitro-custom-color-3)); */
 }
